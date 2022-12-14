@@ -1,0 +1,24 @@
+{
+	"tweetSpecifics": [
+		{
+			"hashTag": "#Wimbledon",
+			"genre": "Events"
+		},
+		{
+			"hashTag": "#India",
+			"genre": "Places"
+		},
+		{
+			"hashTag": "#Coffee",
+			"genre": "Food"
+		},
+		{
+			"hashTag": "#Sunset",
+			"genre": "Nature"
+		},
+		{
+			"hashTag": "#twitter",
+			"genre": "SocialMedia"
+		}
+	]
+}
